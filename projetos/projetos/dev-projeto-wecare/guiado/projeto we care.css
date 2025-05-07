@@ -1,0 +1,80 @@
+* {
+    font-family: "Montserrat", serif;
+    margin: 0; /*geralmente vem com alguns valores, por isto é ideal zerar os valores de margin e padding em toda a aplicação*/
+    padding: 0;
+    box-sizing: border-box;
+}
+ 
+.logo-image {
+    width:568px ;
+    height:500px ;
+    margin-left: 125px;
+    display: inline-block;
+}
+
+header {
+    margin: 44px 0px 144px 76px;
+}
+
+.link-header {
+   font-weight: 600px;
+   font-size: 24px;
+   line-height: 29.26px;
+   color: #989D9C;
+   cursor: pointer;
+   margin-right: 23px;
+}
+
+.button-header{
+    background: #665ae1;
+    border-radius: 20.5px;
+    Width: 130px;
+    Height: 41px;
+    border: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.26px;
+    color: #ffffff;
+}
+
+section {
+    display: inline-block;
+    margin-left: 86px;
+}
+
+h1 {
+font-size: 100px;
+font-weight: 900;
+line-height: 121.9px;
+color: #515151;
+}
+
+h2{
+    font-weight: 500px;
+    font-size: 58px;
+    line-height: 70.7px;
+    color: #515151;
+}
+
+p{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29.26px; 
+    width: 515px;
+    color:#515151;
+    margin: 32px 0px 65px;
+}
+
+.button-main {
+    width: 239px;
+    height: 64px;
+    border-radius: 30px; /*Arredodamento dos cantos*/
+    background: #ADFF00;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 34.13px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0px 4px 4px 0px #000040;
+    /*<deslocamento_horizontal> <deslocamento_vertical> <raio_do_borrão> <distância_de_espalhamento>*/
+}
