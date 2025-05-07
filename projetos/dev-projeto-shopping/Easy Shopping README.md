@@ -50,3 +50,6 @@ A proposta desta aula foi construir uma **landing page simulando uma experiênci
    ```bash
    git clone https://github.com/dhayvesonkelwengit/projetos-desafios/tree/master/projetos
    
+_Aprender na prática transforma código em confiança._
+
+— Estudante Dev Club 🚀
