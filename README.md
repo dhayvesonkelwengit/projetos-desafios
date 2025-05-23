@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d872559f-1209-4c63-bdf8-50fb1c626cb5" alt="Banner do repositório" width="500"/>
+  <img src="https://photos.app.goo.gl/syqnWU4kfNXyRy1eA" alt="Banner do repositório" width="500"/>
 </p>
 
 ---
